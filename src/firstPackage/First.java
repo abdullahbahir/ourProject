@@ -9,7 +9,22 @@ public class First {
 		int c =a+b+d;
 		System.out.println(c);
 		
-
+    
+		
+	String str= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		
+		
+	String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str2);
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
