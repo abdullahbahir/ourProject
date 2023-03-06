@@ -54,6 +54,8 @@ public class First {
 		
 		
 		
+		int do = 1000;
+		
 		
 		
 		
