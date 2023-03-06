@@ -21,6 +21,24 @@ public class First {
 		
 	String str2= "our first clone in the gitHub repository"	;
 	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
+		String str2= "our first clone in the gitHub repository"	;
+	System.out.println(str);
 		
 		
 	String str3= "our first clone in the gitHub repository"	;
@@ -39,7 +57,7 @@ public class First {
 		
 		
 		
->>>>>>> dd2ab6114dbdfe5f3e3536dbd047b6d0ca34b2e3
+dd2ab6114dbdfe5f3e3536dbd047b6d0ca34b2e3
 		
 	}
 	
