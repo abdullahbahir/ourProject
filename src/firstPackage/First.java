@@ -13,17 +13,11 @@ public class First {
 		
 	String str= "our first clone in the gitHub repository"	;
 	System.out.println(str);
-		
-		
 	
-		
-		
-		
-		
-		
-		
-		
+	System.out.println("this is for practice");
 		
 	}
+	
+	
 
 }
