@@ -19,19 +19,7 @@ public class First {
 
 		
 		
-	String str2= "our first clone in the gitHub repository"	;
-	System.out.println(str);
 	
-	String str3= "our first clone in the gitHub repository"	;
-	System.out.println(str);
-	String str4= "our first clone in the gitHub repository"	;
-	System.out.println(str);
-	String st54= "our first clone in the gitHub repository"	;
-	System.out.println(str);
-	String str6= "our first clone in the gitHub repository"	;
-	System.out.println(str);
-	String str7= "our first clone in the gitHub repository"	;
-	System.out.println(str);
 		
 		
 	
