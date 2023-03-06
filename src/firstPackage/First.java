@@ -15,8 +15,7 @@ public class First {
 	System.out.println(str);
 		
 		
-	String str2= "our first clone in the gitHub repository"	;
-	System.out.println(str2);
+	
 		
 		
 		
